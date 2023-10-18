@@ -47,5 +47,6 @@
   "workspaces": [
     "extensions/*"
   ],
-  "author": "daniel"
+  "author": "daniel",
+  "packageManager": "yarn@4.0.0-rc.53"
 }

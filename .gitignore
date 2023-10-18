@@ -12,8 +12,16 @@ database.sqlite
 
 .env
 package-lock.json
-yarn.lock
 
 
 .DS_Store
 .idea
+
+
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
